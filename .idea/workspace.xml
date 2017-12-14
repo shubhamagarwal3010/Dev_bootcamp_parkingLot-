@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d863e41-480f-45fa-a577-8e3c8c86b1e1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AirportSecurityPersonal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Car.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ParkingLot.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ParkingLotOwner.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/ParkingLotTest.java" />
-    </list>
+    <list default="true" id="3d863e41-480f-45fa-a577-8e3c8c86b1e1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +27,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="60">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -618,8 +607,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="60">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
           <folding />
         </state>
       </provider>
